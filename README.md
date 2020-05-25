@@ -36,3 +36,13 @@ In this task, we will create a classifier and train it to classify handwritten d
 
 - Task 8: Composite Model
 - Let's create a composite model to complete our entire prediction pipeline. What I mean is that we want a model in which we can simply feed a noisy image, and the model will first reduce noise in that image and then use this output image and run it through the Classifier to get the class prediction. Idea being that even if our incoming data in a production setting is noisy, our classifier should be able to work well because of the noise reduction from the Auto-encoder.
+
+
+
+CERTIFICATE DETAILS
+- Name: Image Noise Reduction with Auto-encoders using TensorFlow
+- Issuing Organization: Coursera
+- Issue Date: May 2020
+- Expiration Date: This certification does not expire
+- Credential ID: VP5QD85EPKL5
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/VP5QD85EPKL5
